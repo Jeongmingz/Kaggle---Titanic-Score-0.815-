@@ -1,7 +1,7 @@
 # Kaggle-Titanic-BestScore-0.81578
 ---
 ## Titanic - Machine Learning from Disaster
-### Competition Ranking (302 | 0.81578) 2023.01.08
+### Competition Ranking (302/13,655 | 0.81578) 2023.01.08
 ![Ranking](./img/ranking-kaggle.png)
 
 ### Kaggle Notebook Link
