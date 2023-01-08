@@ -13,6 +13,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 903,1,"Jones, Mr. Charles Cresson",male,46,0,0,694,26,,S
 904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,B45,S
 905,2,"Howard, Mr. Benjamin",male,63,1,0,24065,26,,S
+906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,1,0,W.E.P. 5734,61.175,E31,S
 907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,0,SC/PARIS 2167,27.7208,,C
 908,2,"Keane, Mr. Daniel",male,35,0,0,233734,12.35,,Q
 909,3,"Assaf, Mr. Gerios",male,21,0,0,2692,7.225,,C
